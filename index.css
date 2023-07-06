@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito+Sans&family=Poppins&display=swap');
+body{
+    background-image: url("./assets/bg.png");
+    background-repeat: no-repeat;
+    font-family: poppins;
+    text-align: center;
+}
+#heading{
+    font-weight: 1200;
+    font-size: 60px;
+    color: rgb(90, 37, 192);
+}
+#game-image{
+    width: 500px;
+    float:left;
+    margin-left: 150px;
+}
+#play-button{
+    width: 40px;
+}
+#playtext{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+#play{
+    float: right;
+    margin-top: 400px;
+    margin-right: 150px;
+    cursor: pointer;
+}
